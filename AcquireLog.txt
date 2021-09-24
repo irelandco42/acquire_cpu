@@ -1,0 +1,1036 @@
+HAL played tile 9I
+Ralph played tile 12G
+COOOR played tile 9D
+COOOR played tile 10I
+HAL's hand is [1I, 7H, 7E, 7I, 10F, 8E, ]
+HAL played tile 8E
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.0
+Fusion's offense rating is 0.0
+Somebody else is the sole owner of Fusion
+Hydra's danger rating is 0.0
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.0
+Fusion's offense rating is 0.0
+Somebody else is the sole owner of Fusion
+Hydra's danger rating is 0.0
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.0
+Fusion's offense rating is 0.0
+Somebody else is the sole owner of Fusion
+Hydra's danger rating is 0.0
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+HAL is buying a random corp
+Ralph played tile 9E
+COOOR played tile 5B
+tile 7E adds to Quantum
+HAL's share of Quantum is 0.0
+HAL's hand is [1I, 7H, 7E, 7I, 10F, 11C, ]
+HAL played tile 11C
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.8166666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Somebody else is the sole owner of Quantum
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.8166666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Somebody else is the sole owner of Quantum
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.8166666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Somebody else is the sole owner of Quantum
+Ralph played tile 11B
+COOOR played tile 3C
+tile 7E adds to Quantum
+HAL's share of Quantum is 0.0
+HAL's hand is [1I, 7H, 7E, 7I, 10F, 7C, ]
+HAL played tile 7C
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.8166666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 1.4
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.16666666666666666
+Somebody else is the sole owner of Quantum
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.8166666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 1.4
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.16666666666666666
+Somebody else is the sole owner of Quantum
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.8166666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 1.4
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.16666666666666666
+Somebody else is the sole owner of Quantum
+Ralph played tile 11A
+Added tile to Hydra
+Hydra is now size 3
+COOOR played tile 1D
+tile 7E adds to Quantum
+HAL's share of Quantum is 0.0
+HAL's hand is [1I, 7H, 7E, 7I, 10F, 9G, ]
+HAL played tile 9G
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.8166666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 1.7666666666666666
+Hydra's offense rating is 0.16666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 1.7666666666666666
+Quantum's offense rating is 0.16666666666666666
+Somebody else is the sole owner of Quantum
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.8166666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 1.7666666666666666
+Hydra's offense rating is 0.16666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 1.7666666666666666
+Quantum's offense rating is 0.16666666666666666
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 0.0
+America's offense rating is 0.0
+Fusion's danger rating is 0.8166666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 1.7666666666666666
+Hydra's offense rating is 0.16666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 1.7666666666666666
+Quantum's offense rating is 0.16666666666666666
+Ralph played tile 11G
+COOOR played tile 8C
+tile 7E adds to Quantum
+HAL's share of Quantum is 0.2
+HAL's hand is [1I, 7H, 7E, 7I, 10F, 9B, ]
+HAL played tile 7E
+Added tile to Quantum
+Quantum is now size 4
+Zeta's danger rating is 2.8333333333333335
+Zeta's offense rating is 0.16666666666666666
+Somebody else is the sole owner of Zeta
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 4.483333333333333
+America's offense rating is 0.0
+Somebody else is the sole owner of America
+Fusion's danger rating is 2.0166666666666666
+Fusion's offense rating is 0.16666666666666666
+Hydra's danger rating is 1.9333333333333333
+Hydra's offense rating is 0.16666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 1.5833333333333335
+Zeta's danger rating is 2.8333333333333335
+Zeta's offense rating is 0.16666666666666666
+Somebody else is the sole owner of Zeta
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 4.483333333333333
+America's offense rating is 0.0
+Fusion's danger rating is 2.0166666666666666
+Fusion's offense rating is 0.16666666666666666
+Hydra's danger rating is 1.9333333333333333
+Hydra's offense rating is 0.16666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 1.5833333333333335
+Zeta's danger rating is 2.8333333333333335
+Zeta's offense rating is 0.16666666666666666
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 4.483333333333333
+America's offense rating is 0.0
+Fusion's danger rating is 2.0166666666666666
+Fusion's offense rating is 0.16666666666666666
+Hydra's danger rating is 1.9333333333333333
+Hydra's offense rating is 0.16666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 1.5833333333333335
+Ralph played tile 8A
+COOOR played tile 12E
+HAL's hand is [1I, 7H, 7I, 10F, 9B, 1E, ]
+HAL played tile 1E
+Zeta's danger rating is 2.8333333333333335
+Zeta's offense rating is 0.16666666666666666
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 4.483333333333333
+America's offense rating is 0.0
+Fusion's danger rating is 2.0166666666666666
+Fusion's offense rating is 0.16666666666666666
+Hydra's danger rating is 1.9333333333333333
+Hydra's offense rating is 0.16666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 1.5833333333333335
+Zeta's danger rating is 2.8333333333333335
+Zeta's offense rating is 0.16666666666666666
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 4.483333333333333
+America's offense rating is 0.0
+Fusion's danger rating is 2.0166666666666666
+Fusion's offense rating is 0.16666666666666666
+Hydra's danger rating is 1.9333333333333333
+Hydra's offense rating is 0.16666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 1.5833333333333335
+Zeta's danger rating is 2.8333333333333335
+Zeta's offense rating is 0.16666666666666666
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 4.483333333333333
+America's offense rating is 0.0
+Fusion's danger rating is 2.0166666666666666
+Fusion's offense rating is 0.16666666666666666
+Hydra's danger rating is 1.9333333333333333
+Hydra's offense rating is 0.16666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 0.0
+Quantum's offense rating is 1.5833333333333335
+Ralph played tile 10B
+Added tile to Hydra
+Hydra is now size 4
+COOOR played tile 6I
+tile 9B adds to Hydra
+HAL's share of Hydra is 0.23809523809523808
+HAL's hand is [1I, 7H, 7I, 10F, 9B, 3G, ]
+HAL played tile 7I
+Zeta's danger rating is 3.0000000000000004
+Zeta's offense rating is 0.16666666666666666
+Sackson's danger rating is 2.566666666666667
+Sackson's offense rating is 0.5833333333333333
+HAL is the sole owner of Sackson
+America's danger rating is 5.066666666666666
+America's offense rating is 0.0
+Fusion's danger rating is 3.4333333333333336
+Fusion's offense rating is 0.7499999999999999
+Hydra's danger rating is 2.8833333333333337
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 2.8833333333333333
+Quantum's offense rating is 1.75
+Zeta's danger rating is 3.0000000000000004
+Zeta's offense rating is 0.16666666666666666
+Sackson's danger rating is 2.566666666666667
+Sackson's offense rating is 0.5833333333333333
+HAL is the sole owner of Sackson
+America's danger rating is 5.066666666666666
+America's offense rating is 0.0
+Fusion's danger rating is 3.4333333333333336
+Fusion's offense rating is 0.7499999999999999
+Hydra's danger rating is 2.8833333333333337
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 2.8833333333333333
+Quantum's offense rating is 1.75
+Zeta's danger rating is 3.0000000000000004
+Zeta's offense rating is 0.16666666666666666
+Sackson's danger rating is 2.566666666666667
+Sackson's offense rating is 0.5833333333333333
+HAL is the sole owner of Sackson
+America's danger rating is 5.066666666666666
+America's offense rating is 0.0
+Fusion's danger rating is 3.4333333333333336
+Fusion's offense rating is 0.7499999999999999
+Hydra's danger rating is 2.8833333333333337
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 2.8833333333333333
+Quantum's offense rating is 1.75
+Ralph played tile 3E
+COOOR played tile 2G
+tile 7H adds to Sackson
+HAL's share of Sackson is 1.0
+tile 9B adds to Hydra
+HAL's share of Hydra is 0.23809523809523808
+HAL's hand is [1I, 7H, 10F, 9B, 3G, 6F, ]
+HAL played tile 7H
+Added tile to Sackson
+Sackson is now size 3
+Zeta's danger rating is 3.2
+Zeta's offense rating is 0.16666666666666666
+Sackson's danger rating is 1.9333333333333333
+Sackson's offense rating is 0.7499999999999999
+HAL is the sole owner of Sackson
+America's danger rating is 5.066666666666666
+America's offense rating is 0.0
+Fusion's danger rating is 4.016666666666667
+Fusion's offense rating is 0.16666666666666666
+Hydra's danger rating is 2.8833333333333337
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 2.8833333333333333
+Quantum's offense rating is 1.9166666666666667
+Zeta's danger rating is 3.2
+Zeta's offense rating is 0.16666666666666666
+Sackson's danger rating is 1.9333333333333333
+Sackson's offense rating is 0.7499999999999999
+HAL is the sole owner of Sackson
+America's danger rating is 5.066666666666666
+America's offense rating is 0.0
+Fusion's danger rating is 4.016666666666667
+Fusion's offense rating is 0.16666666666666666
+Hydra's danger rating is 2.8833333333333337
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 2.8833333333333333
+Quantum's offense rating is 1.9166666666666667
+Zeta's danger rating is 3.2
+Zeta's offense rating is 0.16666666666666666
+Sackson's danger rating is 1.9333333333333333
+Sackson's offense rating is 0.7499999999999999
+HAL is the sole owner of Sackson
+America's danger rating is 5.066666666666666
+America's offense rating is 0.0
+Fusion's danger rating is 4.016666666666667
+Fusion's offense rating is 0.16666666666666666
+Hydra's danger rating is 2.8833333333333337
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 2.8833333333333333
+Quantum's offense rating is 1.9166666666666667
+Ralph played tile 10G
+Added tile to Zeta
+Zeta is now size 4
+COOOR played tile 11H
+Added tile to Zeta
+Zeta is now size 5
+tile 10F adds to Zeta
+HAL's share of Zeta is 0.4
+tile 9B adds to Hydra
+HAL's share of Hydra is 0.23809523809523808
+tile 6H adds to Sackson
+HAL's share of Sackson is 1.0
+HAL's hand is [1I, 10F, 9B, 3G, 6F, 6H, ]
+HAL played tile 6H
+Added tile to Sackson
+Sackson is now size 4
+Zeta's danger rating is 0.0
+Zeta's offense rating is 2.3333333333333335
+Sackson's danger rating is 5.216666666666668
+Sackson's offense rating is 0.9166666666666666
+HAL is the sole owner of Sackson
+America's danger rating is 5.6000000000000005
+America's offense rating is 0.0
+Fusion's danger rating is 6.966666666666666
+Fusion's offense rating is 0.0
+Hydra's danger rating is 3.7000000000000006
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 9.766666666666664
+Quantum's offense rating is 1.9166666666666667
+Zeta's danger rating is 0.0
+Zeta's offense rating is 2.3333333333333335
+Sackson's danger rating is 5.216666666666668
+Sackson's offense rating is 0.9166666666666666
+HAL is the sole owner of Sackson
+America's danger rating is 5.6000000000000005
+America's offense rating is 0.0
+Fusion's danger rating is 6.966666666666666
+Fusion's offense rating is 0.0
+Hydra's danger rating is 3.7000000000000006
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 9.766666666666664
+Quantum's offense rating is 1.9166666666666667
+Zeta's danger rating is 0.0
+Zeta's offense rating is 2.3333333333333335
+Sackson's danger rating is 5.216666666666668
+Sackson's offense rating is 0.9166666666666666
+HAL is the sole owner of Sackson
+America's danger rating is 5.6000000000000005
+America's offense rating is 0.0
+Fusion's danger rating is 6.966666666666666
+Fusion's offense rating is 0.0
+Hydra's danger rating is 3.7000000000000006
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 9.766666666666664
+Quantum's offense rating is 1.9166666666666667
+Ralph played tile 4H
+COOOR played tile 4F
+tile 10F adds to Zeta
+HAL's share of Zeta is 0.4
+tile 9B adds to Hydra
+HAL's share of Hydra is 0.23809523809523808
+tile 8F adds to Quantum
+HAL's share of Quantum is 0.2
+HAL's hand is [1I, 10F, 9B, 3G, 6F, 8F, ]
+HAL played tile 10F
+Added tile to Zeta
+Zeta is now size 6
+Zeta's danger rating is 0.0
+Zeta's offense rating is 3.083333333333333
+Sackson's danger rating is 5.750000000000002
+Sackson's offense rating is 0.9166666666666666
+HAL is the sole owner of Sackson
+America's danger rating is 5.966666666666668
+America's offense rating is 0.0
+Fusion's danger rating is 7.549999999999999
+Fusion's offense rating is 0.0
+Hydra's danger rating is 4.400000000000001
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 11.183333333333328
+Quantum's offense rating is 1.9166666666666667
+Zeta's danger rating is 0.0
+Zeta's offense rating is 3.083333333333333
+Sackson's danger rating is 5.750000000000002
+Sackson's offense rating is 0.9166666666666666
+HAL is the sole owner of Sackson
+America's danger rating is 5.966666666666668
+America's offense rating is 0.0
+Fusion's danger rating is 7.549999999999999
+Fusion's offense rating is 0.0
+Hydra's danger rating is 4.400000000000001
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 11.183333333333328
+Quantum's offense rating is 1.9166666666666667
+Zeta's danger rating is 0.0
+Zeta's offense rating is 3.083333333333333
+Sackson's danger rating is 5.750000000000002
+Sackson's offense rating is 0.9166666666666666
+HAL is the sole owner of Sackson
+America's danger rating is 5.966666666666668
+America's offense rating is 0.0
+Fusion's danger rating is 7.549999999999999
+Fusion's offense rating is 0.0
+Hydra's danger rating is 4.400000000000001
+Hydra's offense rating is 0.6666666666666666
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 11.183333333333328
+Quantum's offense rating is 1.9166666666666667
+Ralph played tile 1A
+COOOR played tile 8B
+Added tile to America
+America is now size 4
+tile 8F adds to Quantum
+HAL's share of Quantum is 0.2
+tile 8H adds to Sackson
+HAL's share of Sackson is 1.0
+HAL's hand is [1I, 9B, 3G, 6F, 8F, 8H, ]
+HAL played tile 9B
+sCorp size 4
+bCorp size 4
+Zeta's danger rating is 2.7833333333333337
+Zeta's offense rating is 3.083333333333333
+Sackson's danger rating is 5.750000000000002
+Sackson's offense rating is 0.9166666666666666
+HAL is the sole owner of Sackson
+America's danger rating is 0.0
+America's offense rating is 0.0
+Somebody else is the sole owner of America
+Fusion's danger rating is 7.549999999999999
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 2.5
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 17.616666666666667
+Quantum's offense rating is 0.16666666666666666
+Zeta's danger rating is 2.7833333333333337
+Zeta's offense rating is 3.083333333333333
+Sackson's danger rating is 5.750000000000002
+Sackson's offense rating is 0.9166666666666666
+HAL is the sole owner of Sackson
+America's danger rating is 0.0
+America's offense rating is 0.0
+Somebody else is the sole owner of America
+Fusion's danger rating is 7.549999999999999
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 2.5
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 17.616666666666667
+Quantum's offense rating is 0.16666666666666666
+Zeta's danger rating is 2.7833333333333337
+Zeta's offense rating is 3.083333333333333
+Sackson's danger rating is 5.750000000000002
+Sackson's offense rating is 0.9166666666666666
+HAL is the sole owner of Sackson
+America's danger rating is 0.0
+America's offense rating is 0.0
+Somebody else is the sole owner of America
+Fusion's danger rating is 7.549999999999999
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 2.5
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 0.0
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 17.616666666666667
+Quantum's offense rating is 0.16666666666666666
+Ralph played tile 12H
+Added tile to Zeta
+Zeta is now size 7
+COOOR played tile 2F
+tile 3G adds to America
+HAL's share of America is 0.0
+tile 8F adds to Quantum
+HAL's share of Quantum is 0.5
+tile 8H adds to Sackson
+HAL's share of Sackson is 1.0
+HAL's hand is [1I, 3G, 6F, 8F, 8H, 2I, ]
+HAL played tile 8H
+Added tile to Sackson
+Sackson is now size 5
+Zeta's danger rating is 2.7833333333333337
+Zeta's offense rating is 3.8333333333333326
+Sackson's danger rating is 5.316666666666667
+Sackson's offense rating is 1.5
+HAL is the sole owner of Sackson
+America's danger rating is 1.95
+America's offense rating is 0.5833333333333333
+Somebody else is the sole owner of America
+Fusion's danger rating is 8.966666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 2.5
+Phoenix's danger rating is 1.4166666666666665
+Phoenix's offense rating is 0.5833333333333333
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 18.816666666666666
+Quantum's offense rating is 0.0
+Zeta's danger rating is 2.7833333333333337
+Zeta's offense rating is 3.8333333333333326
+Sackson's danger rating is 5.316666666666667
+Sackson's offense rating is 1.5
+HAL is the sole owner of Sackson
+America's danger rating is 1.95
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 8.966666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 2.5
+Phoenix's danger rating is 1.4166666666666665
+Phoenix's offense rating is 0.5833333333333333
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 18.816666666666666
+Quantum's offense rating is 0.0
+Zeta's danger rating is 2.7833333333333337
+Zeta's offense rating is 3.8333333333333326
+Sackson's danger rating is 5.316666666666667
+Sackson's offense rating is 1.5
+HAL is the sole owner of Sackson
+America's danger rating is 1.95
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 8.966666666666667
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 2.5
+Phoenix's danger rating is 1.4166666666666665
+Phoenix's offense rating is 0.5833333333333333
+HAL is the sole owner of Phoenix
+Quantum's danger rating is 18.816666666666666
+Quantum's offense rating is 0.0
+Ralph played tile 9A
+Added tile to Hydra
+Hydra is now size 10
+COOOR played tile 11F
+Added tile to Zeta
+Zeta is now size 8
+tile 3G adds to America
+HAL's share of America is 0.2
+tile 8F adds to Quantum
+HAL's share of Quantum is 0.6
+HAL's hand is [1I, 3G, 6F, 8F, 2I, 10E, ]
+HAL played tile 10E
+sCorp size 4
+bCorp size 8
+Zeta's danger rating is 0.0
+Zeta's offense rating is 6.000000000000001
+Sackson's danger rating is 9.633333333333333
+Sackson's offense rating is 1.1666666666666665
+HAL is the sole owner of Sackson
+America's danger rating is 1.95
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 9.866666666666669
+Fusion's offense rating is 0.0
+Hydra's danger rating is 16.54999999999999
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 1.4166666666666665
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Zeta's danger rating is 0.0
+Zeta's offense rating is 6.000000000000001
+Sackson's danger rating is 9.633333333333333
+Sackson's offense rating is 1.1666666666666665
+HAL is the sole owner of Sackson
+America's danger rating is 1.95
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 9.866666666666669
+Fusion's offense rating is 0.0
+Hydra's danger rating is 16.54999999999999
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 1.4166666666666665
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Zeta's danger rating is 0.0
+Zeta's offense rating is 6.000000000000001
+Sackson's danger rating is 9.633333333333333
+Sackson's offense rating is 1.1666666666666665
+HAL is the sole owner of Sackson
+America's danger rating is 1.95
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 9.866666666666669
+Fusion's offense rating is 0.0
+Hydra's danger rating is 16.54999999999999
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 1.4166666666666665
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Ralph played tile 7D
+sCorp size 10
+bCorp size 13
+COOOR played tile 3B
+tile 3G adds to America
+HAL's share of America is 0.2
+tile 8F adds to Zeta
+HAL's share of Zeta is 0.4117647058823529
+tile 2H adds to America
+HAL's share of America is 0.2
+HAL's hand is [1I, 3G, 6F, 8F, 2I, 2H, ]
+HAL played tile 8F
+Added tile to Zeta
+Zeta is now size 25
+Zeta's danger rating is 0.0
+Zeta's offense rating is 6.499999999999999
+Sackson's danger rating is 11.816666666666663
+Sackson's offense rating is 1.1666666666666665
+America's danger rating is 2.6
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 10.316666666666668
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 2.4499999999999997
+Phoenix's offense rating is 0.7499999999999999
+Quantum's danger rating is 2.666666666666667
+Quantum's offense rating is 0.16666666666666666
+Somebody else is the sole owner of Quantum
+Zeta's danger rating is 0.0
+Zeta's offense rating is 6.499999999999999
+Sackson's danger rating is 11.816666666666663
+Sackson's offense rating is 1.1666666666666665
+America's danger rating is 2.6
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 10.316666666666668
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 2.4499999999999997
+Phoenix's offense rating is 0.7499999999999999
+Quantum's danger rating is 2.666666666666667
+Quantum's offense rating is 0.16666666666666666
+Zeta's danger rating is 0.0
+Zeta's offense rating is 6.499999999999999
+Sackson's danger rating is 11.816666666666663
+Sackson's offense rating is 1.1666666666666665
+America's danger rating is 2.6
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 10.316666666666668
+Fusion's offense rating is 0.0
+Hydra's danger rating is 0.0
+Hydra's offense rating is 0.0
+Phoenix's danger rating is 2.4499999999999997
+Phoenix's offense rating is 0.7499999999999999
+Quantum's danger rating is 2.666666666666667
+Quantum's offense rating is 0.16666666666666666
+Ralph played tile 8G
+sCorp size 5
+bCorp size 25
+COOOR played tile 2A
+tile 3G adds to America
+HAL's share of America is 0.2
+tile 2H adds to America
+HAL's share of America is 0.2
+tile 1C adds to Phoenix
+HAL's share of Phoenix is 0.4
+HAL's hand is [1I, 3G, 6F, 2I, 2H, 1C, ]
+HAL played tile 1C
+Added tile to Phoenix
+Phoenix is now size 3
+Zeta's danger rating is 0.0
+Zeta's offense rating is 6.166666666666666
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 3.0500000000000003
+America's offense rating is 0.0
+Fusion's danger rating is 10.900000000000002
+Fusion's offense rating is 0.0
+Hydra's danger rating is 3.2833333333333337
+Hydra's offense rating is 0.5833333333333333
+Somebody else is the sole owner of Hydra
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 1.75
+Quantum's danger rating is 4.916666666666668
+Quantum's offense rating is 0.5833333333333333
+Zeta's danger rating is 0.0
+Zeta's offense rating is 6.166666666666666
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 3.0500000000000003
+America's offense rating is 0.0
+Fusion's danger rating is 10.900000000000002
+Fusion's offense rating is 0.0
+Hydra's danger rating is 3.2833333333333337
+Hydra's offense rating is 0.5833333333333333
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 1.75
+Quantum's danger rating is 4.916666666666668
+Quantum's offense rating is 0.5833333333333333
+Zeta's danger rating is 0.0
+Zeta's offense rating is 6.166666666666666
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 3.0500000000000003
+America's offense rating is 0.0
+Fusion's danger rating is 10.900000000000002
+Fusion's offense rating is 0.0
+Hydra's danger rating is 3.2833333333333337
+Hydra's offense rating is 0.5833333333333333
+Phoenix's danger rating is 0.0
+Phoenix's offense rating is 1.75
+Quantum's danger rating is 4.916666666666668
+Quantum's offense rating is 0.5833333333333333
+Ralph played tile 9C
+Added tile to Zeta
+Zeta is now size 32
+COOOR played tile 3A
+sCorp size 2
+bCorp size 2
+tile 3G adds to America
+HAL's share of America is 0.1111111111111111
+tile 2H adds to America
+HAL's share of America is 0.1111111111111111
+HAL's hand is [1I, 3G, 6F, 2I, 2H, 9H, ]
+HAL played tile 9H
+sCorp size 2
+bCorp size 32
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 3.0500000000000003
+America's offense rating is 0.0
+Fusion's danger rating is 0.0
+Fusion's offense rating is 0.0
+Hydra's danger rating is 1.1500000000000001
+Hydra's offense rating is 1.1666666666666665
+Phoenix's danger rating is 4.35
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 3.0500000000000003
+America's offense rating is 0.0
+Fusion's danger rating is 0.0
+Fusion's offense rating is 0.0
+Hydra's danger rating is 1.1500000000000001
+Hydra's offense rating is 1.1666666666666665
+Phoenix's danger rating is 4.35
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Zeta's danger rating is 0.0
+Zeta's offense rating is 0.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 3.0500000000000003
+America's offense rating is 0.0
+Fusion's danger rating is 0.0
+Fusion's offense rating is 0.0
+Hydra's danger rating is 1.1500000000000001
+Hydra's offense rating is 1.1666666666666665
+Phoenix's danger rating is 4.35
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Ralph played tile 10C
+Added tile to Zeta
+Zeta is now size 36
+COOOR played tile 5F
+tile 3G adds to America
+HAL's share of America is 0.2222222222222222
+tile 6F adds to Fusion
+HAL's share of Fusion is 0.0
+tile 2H adds to America
+HAL's share of America is 0.2222222222222222
+tile 11E adds to Zeta
+HAL's share of Zeta is 0.36
+HAL's hand is [1I, 3G, 6F, 2I, 2H, 11E, ]
+HAL played tile 11E
+Added tile to Zeta
+Zeta is now size 38
+Zeta's danger rating is 0.0
+Zeta's offense rating is 1.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 4.466666666666668
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 9.216666666666663
+Fusion's offense rating is 0.5833333333333333
+Hydra's danger rating is 1.1500000000000001
+Hydra's offense rating is 1.1666666666666665
+Phoenix's danger rating is 4.35
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Zeta's danger rating is 0.0
+Zeta's offense rating is 1.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 4.466666666666668
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 9.216666666666663
+Fusion's offense rating is 0.5833333333333333
+Hydra's danger rating is 1.1500000000000001
+Hydra's offense rating is 1.1666666666666665
+Phoenix's danger rating is 4.35
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Zeta's danger rating is 0.0
+Zeta's offense rating is 1.0
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 4.466666666666668
+America's offense rating is 0.5833333333333333
+Fusion's danger rating is 9.216666666666663
+Fusion's offense rating is 0.5833333333333333
+Hydra's danger rating is 1.1500000000000001
+Hydra's offense rating is 1.1666666666666665
+Phoenix's danger rating is 4.35
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Ralph played tile 6D
+Added tile to Zeta
+Zeta is now size 39
+COOOR played tile 4G
+Added tile to Fusion
+Fusion is now size 4
+tile 6F adds to Fusion
+HAL's share of Fusion is 0.1875
+tile 2H adds to America
+HAL's share of America is 0.16666666666666666
+tile 6C adds to Zeta
+HAL's share of Zeta is 0.36
+HAL's hand is [1I, 3G, 6F, 2I, 2H, 6C, ]
+HAL played tile 6C
+Added tile to Zeta
+Zeta is now size 40
+Zeta's danger rating is 0.0
+Zeta's offense rating is 3.166666666666667
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 6.050000000000001
+America's offense rating is 0.0
+Fusion's danger rating is 12.999999999999998
+Fusion's offense rating is 1.1666666666666665
+Hydra's danger rating is 2.716666666666667
+Hydra's offense rating is 1.1666666666666665
+Phoenix's danger rating is 5.866666666666668
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Zeta's danger rating is 0.0
+Zeta's offense rating is 3.166666666666667
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 6.050000000000001
+America's offense rating is 0.0
+Fusion's danger rating is 12.999999999999998
+Fusion's offense rating is 1.1666666666666665
+Hydra's danger rating is 2.716666666666667
+Hydra's offense rating is 1.1666666666666665
+Phoenix's danger rating is 5.866666666666668
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Zeta's danger rating is 0.0
+Zeta's offense rating is 3.166666666666667
+Sackson's danger rating is 0.0
+Sackson's offense rating is 0.0
+America's danger rating is 6.050000000000001
+America's offense rating is 0.0
+Fusion's danger rating is 12.999999999999998
+Fusion's offense rating is 1.1666666666666665
+Hydra's danger rating is 2.716666666666667
+Hydra's offense rating is 1.1666666666666665
+Phoenix's danger rating is 5.866666666666668
+Phoenix's offense rating is 0.5833333333333333
+Quantum's danger rating is 0.0
+Quantum's offense rating is 0.0
+Ralph played tile 7F
+Added tile to Zeta
+Zeta is now size 41
+sCorp size 41
+sCorp size 2
+sCorp size 4
+sCorp size 5
+sCorp size 3
